@@ -9,8 +9,8 @@ about: If you get a crash while playing the modpack, or something is not working
 <!-- MODPACK INFORMATION - Please check the fitting checkboxes.
 <!-- To tick the checkboxes replace the "[ ]" with "[x]". -->
 ## Modpack Information
-- [ ] I am running the latest version of FoolCraft
 *  Pack Version: 
+- [ ] I am running the latest version of FoolCraft
 - [ ] I am running FoolCraft via Curse/Twitch Launcher
 - [ ] I can reproduce this issue consistently
      - [ ] In single player
