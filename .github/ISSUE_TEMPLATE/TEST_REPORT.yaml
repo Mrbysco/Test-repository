@@ -23,13 +23,26 @@ body:
     validations:
       required: false
   - type: input
-    id: client-info
+    id: forge-info
     attributes:
-      label: Client Info
-      description: Forge version
+      label: Forge version
       placeholder: ex. 36.2.0
     validations:
-      required: false
+      required: true
+  - type: input
+    id: mod-info
+    attributes:
+      label: Mod version
+      placeholder: ex. 0.0.1
+    validations:
+      required: true
+  - type: input
+    id: java-info
+    attributes:
+      label: Java version
+      placeholder: ex. Java 8 update 51
+    validations:
+      required: true
   - type: textarea
     id: issue-description
     attributes:
